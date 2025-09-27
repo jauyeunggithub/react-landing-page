@@ -1,0 +1,10 @@
+{
+  "name": "react-landing-page",
+  "version": "1.0.0",
+  "description": "Landing page for React development services with embedded Calendly",
+  "scripts": {
+    "start": "npx serve public"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
